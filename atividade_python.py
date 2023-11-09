@@ -200,8 +200,15 @@ import math
 
 # 19. Faça um Programa que leia três números e mostre-os em ordem decrescente.
 # def ordem_decrescente():
-#     lista = [1, 2, 3, 4, 5, 6]
-#     print(lista[::-1])
+#     numero1 = input("Digite o primeiro número: ")
+#     numero2 = input("Digite o segundo número: ")
+#     numero3 = input("Digite o terceiro número: ")
+#     lista = [numero1, numero2, numero3]
+#     lista.sort(reverse=True)
+#     print(lista)
+#
+#     lista_invertida = lista.sort(reverse=True)
+#     print(lista_invertida)
 #
 #
 # ordem_decrescente()
